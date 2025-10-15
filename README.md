@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi there, I'm Wong Xiu Huan!
 
-💻 I’m a Software Engineering student from FSKTM, passionate about learning how real-world systems are maintained, improved, and evolved over time.
+💻 I’m a Software Engineering student, passionate about learning how real-world systems are maintained, improved, and evolved over time.
 
 🚀 My goal for this course: To strengthen my understanding of modern maintenance practices and gain hands-on experience in improving software sustainability and performance.
 
