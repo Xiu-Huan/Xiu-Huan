@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there, I'm Wong Xiu Huan!
+
+💻 I’m a Software Engineering student from FSKTM, passionate about learning how real-world systems are maintained, improved, and evolved over time.
+
+🚀 My goal for this course: To strengthen my understanding of modern maintenance practices and gain hands-on experience in improving software sustainability and performance.
+
+🤝 Looking forward to: Collaborating on open-source projects, exploring clean code principles, and learning practical approaches to handle real-world software challenges.
+
+⚡ Fun fact: I enjoy solving coding problems and exploring backend development tools that make software more reliable and maintainable!
